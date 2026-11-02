@@ -1,0 +1,536 @@
+state_name,district_name,recent_level_mbgl,overall_mean_mbgl,depletion_rate_m_yr,avg_water_intensive_area_ha,Risk_Category
+Andaman And Nicobar Islands,North And Middle Andaman,1.29,1.36,0.017,5853.8,Semi-Critical
+Andaman And Nicobar Islands,South Andamans,1.59,1.7,0.017,252.7,Semi-Critical
+Andhra Pradesh,Ananthapuramu,10.43,9.99,0.151,160846.4,Critical
+Andhra Pradesh,Chittoor,7.97,7.07,0.081,145102.4,Semi-Critical
+Andhra Pradesh,East Godavari,3.93,3.72,0.106,812998.9,Semi-Critical
+Andhra Pradesh,Guntur,3.3,3.67,-0.037,771340.6,Safe
+Andhra Pradesh,Krishna,3.9,3.93,0.051,627689.8,Semi-Critical
+Andhra Pradesh,Kurnool,4.96,5.75,-0.162,603879.4,Safe
+Andhra Pradesh,Prakasam,5.44,5.68,0.037,250356.1,Semi-Critical
+Andhra Pradesh,Sri Potti Sriramulu Nellore,3.15,4.14,-0.212,494888.0,Safe
+Andhra Pradesh,Srikakulam,3.2,3.32,-0.001,432015.4,Safe
+Andhra Pradesh,Visakhapatnam,3.91,3.87,0.074,244824.8,Semi-Critical
+Andhra Pradesh,Vizianagaram,3.63,3.45,0.095,275411.8,Semi-Critical
+Andhra Pradesh,West Godavari,4.25,4.64,-0.149,828314.9,Safe
+Arunachal Pradesh,Changlang,3.7,3.36,0.087,10374.8,Semi-Critical
+Arunachal Pradesh,East Siang,5.37,5.98,-0.1,14141.7,Semi-Critical
+Arunachal Pradesh,Lohit,4.21,3.41,0.233,6552.2,Semi-Critical
+Arunachal Pradesh,Tirap,5.7,5.09,0.155,2915.8,Semi-Critical
+Assam,Baksa,2.64,2.45,0.088,197554.2,Semi-Critical
+Assam,Barpeta,3.15,2.77,0.092,252745.3,Semi-Critical
+Assam,Bongaigaon,3.86,3.54,0.117,111628.9,Semi-Critical
+Assam,Cachar,2.3,2.29,-0.07,215171.1,Safe
+Assam,Chirang,2.45,2.52,-0.01,85904.4,Safe
+Assam,Darrang,3.88,3.72,0.075,142753.2,Semi-Critical
+Assam,Dhemaji,4.23,6.2,-0.654,147919.7,Safe
+Assam,Dhubri,3.75,3.49,0.119,174925.1,Semi-Critical
+Assam,Dibrugarh,4.09,3.38,0.206,154441.1,Semi-Critical
+Assam,Goalpara,2.8,3.19,-0.106,164039.0,Safe
+Assam,Golaghat,4.62,4.53,0.04,247849.0,Semi-Critical
+Assam,Hailakandi,2.84,2.42,0.064,89961.8,Semi-Critical
+Assam,Jorhat,1.68,1.97,-0.087,181567.2,Safe
+Assam,Kamrup,2.44,2.8,-0.049,226109.8,Safe
+Assam,Kamrup Metro,2.21,2.41,-0.047,47316.6,Safe
+Assam,Karbi Anglong,4.38,4.59,-0.007,248898.0,Safe
+Assam,Kokrajhar,14.35,14.39,0.171,197710.0,Critical
+Assam,Lakhimpur,2.1,2.21,-0.039,245989.3,Safe
+Assam,Marigaon,3.17,3.1,0.109,178250.0,Semi-Critical
+Assam,Nagaon,2.97,3.4,-0.044,369154.0,Safe
+Assam,Nalbari,1.91,1.91,0.019,151549.9,Semi-Critical
+Assam,Sivasagar,2.01,2.61,-0.144,189319.1,Safe
+Assam,Sonitpur,3.34,3.4,-0.018,298941.6,Safe
+Assam,Tinsukia,3.05,2.83,0.061,125873.3,Semi-Critical
+Assam,Udalguri,2.54,2.83,-0.11,177766.8,Safe
+Bihar,Araria,2.99,2.96,-0.007,222551.2,Safe
+Bihar,Arwal,3.79,4.04,-0.073,40302.0,Safe
+Bihar,Aurangabad,4.81,4.99,-0.019,251177.9,Safe
+Bihar,Banka,4.61,4.13,0.101,135182.7,Semi-Critical
+Bihar,Begusarai,5.08,5.01,0.025,96657.8,Semi-Critical
+Bihar,Bhagalpur,6.23,5.37,0.244,95608.2,Semi-Critical
+Bihar,Bhojpur,4.74,4.86,0.099,258733.8,Semi-Critical
+Bihar,Buxar,5.25,5.4,0.07,194002.0,Semi-Critical
+Bihar,Darbhanga,2.97,3.26,-0.087,221091.2,Safe
+Bihar,Gaya,4.3,4.89,-0.155,176714.7,Safe
+Bihar,Gopalganj,2.8,2.93,0.014,233525.7,Semi-Critical
+Bihar,Jamui,6.29,6.19,-0.027,92125.9,Semi-Critical
+Bihar,Jehanabad,3.79,4.25,-0.155,57480.7,Safe
+Bihar,Kaimur (Bhabua),6.39,6.25,0.182,222397.6,Semi-Critical
+Bihar,Katihar,3.66,3.86,-0.013,210681.0,Safe
+Bihar,Khagaria,4.42,4.4,0.05,67255.6,Semi-Critical
+Bihar,Kishanganj,3.6,3.62,-0.074,174873.8,Safe
+Bihar,Lakhisarai,5.32,5.3,0.028,54619.7,Semi-Critical
+Bihar,Madhepura,3.41,3.34,0.023,189014.8,Semi-Critical
+Bihar,Madhubani,2.37,2.59,-0.079,477161.8,Safe
+Bihar,Munger,4.6,4.42,0.02,66113.3,Semi-Critical
+Bihar,Muzaffarpur,3.42,3.97,-0.1,354496.3,Safe
+Bihar,Nalanda,4.55,4.49,0.083,252443.2,Semi-Critical
+Bihar,Nawada,4.67,4.51,0.035,156226.8,Semi-Critical
+Bihar,Pashchim Champaran,3.27,3.01,0.082,498305.8,Semi-Critical
+Bihar,Patna,4.92,5.48,0.002,192999.8,Semi-Critical
+Bihar,Purbi Champaran,3.08,2.98,0.047,526156.3,Semi-Critical
+Bihar,Purnia,3.4,3.5,0.004,202460.2,Semi-Critical
+Bihar,Rohtas,6.39,5.63,0.221,400885.1,Semi-Critical
+Bihar,Saharsa,2.83,2.66,0.035,210149.2,Semi-Critical
+Bihar,Samastipur,4.72,5.11,-0.171,242517.4,Safe
+Bihar,Saran,3.58,4.22,-0.106,216174.2,Safe
+Bihar,Sheikhpura,4.42,4.51,-0.061,46680.7,Safe
+Bihar,Sheohar,2.84,2.75,0.154,60486.8,Semi-Critical
+Bihar,Sitamarhi,2.09,2.48,-0.125,309631.6,Safe
+Bihar,Siwan,3.5,3.7,0.03,273503.9,Semi-Critical
+Bihar,Supaul,2.75,2.54,0.071,261145.0,Semi-Critical
+Bihar,Vaishali,4.03,4.67,-0.115,123691.4,Safe
+Chandigarh,Chandigarh,24.25,22.15,0.532,587.7,Over-Exploited
+Chhattisgarh,Bastar,4.43,4.84,-0.079,132059.8,Safe
+Chhattisgarh,Bilaspur,5.63,6.59,-0.274,216233.1,Semi-Critical
+Chhattisgarh,Dakshin Bastar Dantewada,6.12,5.91,0.07,70694.5,Semi-Critical
+Chhattisgarh,Dhamtari,4.49,4.95,-0.112,183742.9,Safe
+Chhattisgarh,Durg,5.45,6.06,-0.215,145103.6,Semi-Critical
+Chhattisgarh,Janjgir-Champa,4.87,4.85,0.068,264471.2,Semi-Critical
+Chhattisgarh,Jashpur,5.19,5.25,0.033,184162.3,Semi-Critical
+Chhattisgarh,Kabeerdham,7.32,7.43,0.055,140184.8,Semi-Critical
+Chhattisgarh,Korba,5.02,5.45,-0.018,110541.1,Semi-Critical
+Chhattisgarh,Korea,5.06,5.53,-0.096,73979.9,Semi-Critical
+Chhattisgarh,Mahasamund,6.28,6.07,0.048,283239.4,Semi-Critical
+Chhattisgarh,Raigarh,5.11,5.67,-0.14,241068.1,Semi-Critical
+Chhattisgarh,Raipur,4.33,4.38,0.018,177763.3,Semi-Critical
+Chhattisgarh,Rajnandgaon,5.03,5.02,0.07,326129.9,Semi-Critical
+Chhattisgarh,Surguja,5.89,6.22,-0.083,123706.7,Semi-Critical
+Chhattisgarh,Uttar Bastar Kanker,4.74,4.74,0.019,183581.3,Semi-Critical
+Goa,North Goa,4.42,4.26,0.013,33321.8,Semi-Critical
+Goa,South Goa,5.58,5.34,0.079,43408.2,Semi-Critical
+Gujarat,Ahmedabad,14.49,18.29,-1.345,554660.6,Critical
+Gujarat,Amreli,9.86,11.58,-0.441,381366.7,Semi-Critical
+Gujarat,Anand,12.23,11.58,0.29,289003.1,Critical
+Gujarat,Banas Kantha,35.38,37.75,-0.69,112870.1,Over-Exploited
+Gujarat,Bharuch,4.56,5.25,-0.186,165573.7,Safe
+Gujarat,Bhavnagar,7.71,9.87,-0.637,247546.1,Semi-Critical
+Gujarat,Dahod,5.03,5.74,-0.121,92343.2,Semi-Critical
+Gujarat,Dangs,2.74,3.37,-0.143,29627.0,Safe
+Gujarat,Gandhinagar,94.99,85.91,2.044,74132.8,Over-Exploited
+Gujarat,Jamnagar,5.07,7.43,-0.553,183968.3,Semi-Critical
+Gujarat,Junagadh,8.03,10.0,-0.516,140208.0,Semi-Critical
+Gujarat,Kachchh,11.68,12.37,-0.184,84884.9,Critical
+Gujarat,Kheda,9.04,9.86,-0.249,325166.8,Semi-Critical
+Gujarat,Mahesana,35.93,36.92,-0.575,121654.7,Over-Exploited
+Gujarat,Narmada,7.61,8.6,-0.346,67151.8,Semi-Critical
+Gujarat,Navsari,4.15,5.28,-0.226,133065.0,Safe
+Gujarat,Panch Mahals,6.65,7.07,0.05,135464.7,Semi-Critical
+Gujarat,Patan,34.78,38.19,0.342,81771.2,Over-Exploited
+Gujarat,Porbandar,6.3,8.41,-0.399,27801.1,Semi-Critical
+Gujarat,Rajkot,5.57,7.14,-0.372,301402.8,Semi-Critical
+Gujarat,Sabar Kantha,10.78,11.09,0.032,172798.1,Critical
+Gujarat,Surat,4.93,5.73,-0.213,186883.9,Safe
+Gujarat,Surendranagar,4.54,5.66,-0.314,406935.2,Safe
+Gujarat,Tapi,4.7,5.57,-0.17,154261.2,Safe
+Gujarat,Vadodara,10.77,11.12,-0.022,175256.4,Critical
+Gujarat,Valsad,4.82,5.11,-0.016,151984.1,Safe
+Haryana,Ambala,11.89,11.0,0.029,195496.6,Critical
+Haryana,Bhiwani,12.28,12.37,-0.076,256961.1,Critical
+Haryana,Faridabad,32.59,26.9,0.904,58655.6,Over-Exploited
+Haryana,Fatehabad,22.52,19.58,0.459,375375.8,Over-Exploited
+Haryana,Gurugram,33.67,28.55,1.479,51923.6,Over-Exploited
+Haryana,Hisar,8.71,8.46,0.113,431111.0,Critical
+Haryana,Jhajjar,3.06,3.7,-0.127,152862.6,Safe
+Haryana,Jind,17.99,15.4,0.732,395660.4,Over-Exploited
+Haryana,Kaithal,26.17,22.8,1.225,352250.7,Over-Exploited
+Haryana,Karnal,20.95,20.49,0.33,348589.3,Over-Exploited
+Haryana,Kurukshetra,35.16,35.18,0.596,239839.2,Over-Exploited
+Haryana,Mahendragarh,38.89,32.77,1.679,79113.2,Over-Exploited
+Haryana,Nuh,6.62,7.41,-0.469,88406.8,Semi-Critical
+Haryana,Palwal,9.41,8.18,0.336,135631.3,Critical
+Haryana,Panchkula,9.2,11.88,-1.214,37762.6,Semi-Critical
+Haryana,Panipat,19.79,17.06,0.789,177381.0,Over-Exploited
+Haryana,Rewari,29.65,23.65,1.534,53052.3,Over-Exploited
+Haryana,Rohtak,4.26,3.89,0.089,174359.9,Semi-Critical
+Haryana,Sirsa,13.24,13.56,-0.063,574685.4,Critical
+Haryana,Sonipat,10.0,10.03,0.119,263092.2,Critical
+Haryana,Yamunanagar,14.22,13.4,0.453,184314.9,Critical
+Himachal Pradesh,Hamirpur,3.38,3.9,-0.089,32576.0,Safe
+Himachal Pradesh,Kangra,3.6,3.77,-0.053,124026.8,Safe
+Himachal Pradesh,Kullu,3.55,3.7,0.02,21259.4,Semi-Critical
+Himachal Pradesh,Mandi,2.94,3.16,-0.047,78687.6,Safe
+Himachal Pradesh,Sirmaur,10.86,10.25,0.218,33598.8,Critical
+Himachal Pradesh,Solan,13.12,13.9,-0.024,30736.7,Critical
+Himachal Pradesh,Una,5.98,6.3,-0.047,33502.3,Semi-Critical
+Jammu And Kashmir,Anantnag,15.69,14.46,0.223,23067.0,Over-Exploited
+Jammu And Kashmir,Jammu,5.55,5.5,0.036,116587.3,Semi-Critical
+Jammu And Kashmir,Kathua,4.95,5.19,-0.066,70053.3,Safe
+Jammu And Kashmir,Rajouri,2.11,2.62,-0.035,45109.4,Safe
+Jammu And Kashmir,Reasi,1.65,1.79,0.025,14140.1,Semi-Critical
+Jammu And Kashmir,Udhampur,1.86,2.42,-0.111,39999.3,Safe
+Jharkhand,Bokaro,4.69,5.01,-0.075,42928.1,Safe
+Jharkhand,Chatra,6.9,7.03,-0.105,40932.8,Semi-Critical
+Jharkhand,Deoghar,5.28,5.85,-0.102,61801.8,Semi-Critical
+Jharkhand,Dhanbad,4.07,4.54,-0.151,28505.2,Safe
+Jharkhand,Dumka,4.83,5.19,-0.095,122081.1,Safe
+Jharkhand,East Singhbum,4.57,5.38,-0.125,124242.4,Safe
+Jharkhand,Garhwa,5.26,5.52,-0.088,57982.6,Semi-Critical
+Jharkhand,Giridih,5.12,5.34,0.019,105366.1,Semi-Critical
+Jharkhand,Godda,4.68,5.62,-0.268,65513.9,Safe
+Jharkhand,Gumla,4.28,4.18,0.068,211388.1,Semi-Critical
+Jharkhand,Hazaribagh,5.94,6.04,0.017,78994.0,Semi-Critical
+Jharkhand,Jamtara,4.94,4.91,-0.059,63028.1,Safe
+Jharkhand,Khunti,4.53,4.91,-0.08,94965.6,Safe
+Jharkhand,Koderma,4.77,4.87,-0.017,22743.6,Safe
+Jharkhand,Latehar,5.84,5.76,-0.041,40046.6,Semi-Critical
+Jharkhand,Lohardaga,5.12,5.18,-0.039,52642.8,Semi-Critical
+Jharkhand,Pakur,5.17,5.0,0.047,61608.9,Semi-Critical
+Jharkhand,Palamu,5.79,5.95,-0.068,67258.2,Semi-Critical
+Jharkhand,Ramgarh,4.39,4.93,-0.156,32910.5,Safe
+Jharkhand,Ranchi,4.09,4.69,-0.101,204792.2,Safe
+Jharkhand,Sahebganj,4.84,4.84,-0.058,61553.3,Safe
+Jharkhand,Saraikela Kharsawan,4.74,4.67,0.059,103863.4,Semi-Critical
+Jharkhand,Simdega,4.18,4.2,0.001,115654.6,Semi-Critical
+Jharkhand,West Singhbhum,4.42,4.68,-0.001,201686.8,Safe
+Karnataka,Bagalkote,6.0,6.97,-0.304,118474.4,Semi-Critical
+Karnataka,Ballari,7.21,7.4,-0.051,374921.4,Semi-Critical
+Karnataka,Belagavi,4.16,5.46,-0.333,427211.9,Safe
+Karnataka,Bengaluru Rural,11.35,13.13,-0.77,1017.2,Critical
+Karnataka,Bengaluru Urban,9.32,10.16,-0.574,1134.2,Semi-Critical
+Karnataka,Bidar,7.08,7.77,-0.205,27090.2,Semi-Critical
+Karnataka,Chikkaballapura,12.31,15.23,-1.099,4142.0,Critical
+Karnataka,Chikkamagaluru,5.73,6.21,-0.084,54104.0,Semi-Critical
+Karnataka,Chitradurga,9.05,9.57,-0.065,30972.1,Semi-Critical
+Karnataka,Dakshina Kannada,6.64,6.48,0.053,59165.1,Semi-Critical
+Karnataka,Dharwad,6.44,8.22,-0.374,214300.8,Semi-Critical
+Karnataka,Gadag,7.89,9.16,-0.452,118942.0,Semi-Critical
+Karnataka,Hassan,6.56,7.31,-0.089,81942.6,Semi-Critical
+Karnataka,Haveri,6.01,7.47,-0.214,217789.0,Semi-Critical
+Karnataka,Kalaburagi,5.63,6.08,-0.135,153273.3,Semi-Critical
+Karnataka,Kodagu,7.23,7.38,-0.016,52100.7,Semi-Critical
+Karnataka,Kolar,11.31,11.14,-0.328,3858.4,Critical
+Karnataka,Koppal,5.37,6.05,-0.214,183240.1,Semi-Critical
+Karnataka,Mandya,4.57,5.15,-0.184,150546.6,Safe
+Karnataka,Mysuru,5.88,6.67,-0.223,236372.9,Semi-Critical
+Karnataka,Raichur,4.23,4.49,-0.076,560653.0,Safe
+Karnataka,Shivamogga,5.91,5.89,0.096,205879.9,Semi-Critical
+Karnataka,Tumakuru,9.96,10.08,-0.242,17730.0,Semi-Critical
+Karnataka,Udupi,6.32,6.15,0.112,89243.6,Semi-Critical
+Karnataka,Uttara Kannada,5.47,5.62,-0.042,125128.1,Semi-Critical
+Karnataka,Vijayapura,5.12,6.13,-0.284,136504.7,Semi-Critical
+Karnataka,Yadgir,4.82,5.16,-0.12,368934.2,Safe
+Kerala,Alappuzha,3.56,3.28,0.084,72871.0,Semi-Critical
+Kerala,Ernakulam,4.9,4.73,0.059,9751.9,Semi-Critical
+Kerala,Idukki,4.7,4.55,0.07,2385.6,Semi-Critical
+Kerala,Kannur,6.87,6.88,0.021,10624.8,Semi-Critical
+Kerala,Kasaragod,8.68,8.85,-0.041,5798.6,Semi-Critical
+Kerala,Kollam,6.81,7.09,-0.083,3500.7,Semi-Critical
+Kerala,Kottayam,4.46,4.54,-0.044,35850.9,Safe
+Kerala,Kozhikode,5.1,5.12,0.004,4589.0,Semi-Critical
+Kerala,Malappuram,6.99,7.24,-0.01,16837.6,Semi-Critical
+Kerala,Palakkad,6.05,6.46,-0.021,154632.1,Semi-Critical
+Kerala,Pathanamthitta,5.46,5.22,0.11,5946.0,Semi-Critical
+Kerala,Thiruvananthapuram,9.15,9.25,0.0,3826.2,Semi-Critical
+Kerala,Thrissur,6.18,6.08,0.084,45771.3,Semi-Critical
+Kerala,Wayanad,6.13,6.3,0.008,17226.5,Semi-Critical
+Madhya Pradesh,Alirajpur,6.12,6.53,-0.031,48983.0,Semi-Critical
+Madhya Pradesh,Anuppur,5.28,5.68,-0.053,160585.8,Semi-Critical
+Madhya Pradesh,Ashoknagar,5.85,6.46,-0.101,173417.0,Semi-Critical
+Madhya Pradesh,Balaghat,3.88,4.49,-0.125,429938.4,Safe
+Madhya Pradesh,Barwani,5.42,7.87,-0.447,167224.3,Semi-Critical
+Madhya Pradesh,Betul,6.41,7.32,-0.1,238104.1,Semi-Critical
+Madhya Pradesh,Bhind,10.73,11.51,-0.229,129041.3,Critical
+Madhya Pradesh,Bhopal,5.47,6.55,-0.105,111209.0,Semi-Critical
+Madhya Pradesh,Burhanpur,9.2,9.62,0.011,56557.2,Semi-Critical
+Madhya Pradesh,Chhatarpur,6.7,6.87,0.138,226647.8,Semi-Critical
+Madhya Pradesh,Chhindwara,7.24,8.26,-0.203,286093.3,Semi-Critical
+Madhya Pradesh,Damoh,6.24,6.86,-0.063,203882.9,Semi-Critical
+Madhya Pradesh,Datia,9.53,9.29,0.196,204324.3,Critical
+Madhya Pradesh,Dewas,7.89,8.45,0.08,217414.6,Semi-Critical
+Madhya Pradesh,Dhar,7.91,8.35,-0.061,365748.8,Semi-Critical
+Madhya Pradesh,Dindori,3.73,3.77,0.033,152226.8,Semi-Critical
+Madhya Pradesh,Guna,8.99,8.72,0.198,156055.3,Critical
+Madhya Pradesh,Gwalior,11.31,11.53,0.109,217832.1,Critical
+Madhya Pradesh,Harda,5.56,6.18,-0.084,150097.3,Semi-Critical
+Madhya Pradesh,Indore,7.8,9.32,-0.141,147338.8,Semi-Critical
+Madhya Pradesh,Jabalpur,5.11,6.06,-0.145,299382.9,Semi-Critical
+Madhya Pradesh,Jhabua,4.18,5.28,-0.285,93439.0,Safe
+Madhya Pradesh,Katni,7.33,7.31,0.088,274121.1,Semi-Critical
+Madhya Pradesh,Khandwa (East Nimar),5.22,5.48,0.035,212331.9,Semi-Critical
+Madhya Pradesh,Khargone (West Nimar),5.7,6.31,-0.112,393072.7,Semi-Critical
+Madhya Pradesh,Mandla,3.61,3.83,0.004,211195.1,Semi-Critical
+Madhya Pradesh,Mandsaur,12.4,12.69,0.034,135912.1,Critical
+Madhya Pradesh,Morena,11.87,12.78,-0.185,113926.0,Critical
+Madhya Pradesh,Narmadapuram,6.26,6.43,0.066,396412.4,Semi-Critical
+Madhya Pradesh,Narsimhapur,5.93,7.82,-0.513,232130.9,Semi-Critical
+Madhya Pradesh,Neemuch,7.72,7.41,0.256,64130.6,Semi-Critical
+Madhya Pradesh,Panna,6.5,6.9,-0.085,177886.0,Semi-Critical
+Madhya Pradesh,Raisen,5.9,6.62,-0.163,402097.3,Semi-Critical
+Madhya Pradesh,Rajgarh,7.76,8.39,-0.013,224906.2,Semi-Critical
+Madhya Pradesh,Ratlam,10.8,11.84,-0.037,170249.2,Critical
+Madhya Pradesh,Rewa,7.25,7.82,-0.002,436915.2,Semi-Critical
+Madhya Pradesh,Sagar,7.33,7.9,-0.003,279810.3,Semi-Critical
+Madhya Pradesh,Satna,6.5,6.81,0.013,374932.1,Semi-Critical
+Madhya Pradesh,Sehore,7.74,8.85,-0.211,302389.7,Semi-Critical
+Madhya Pradesh,Seoni,4.33,3.85,0.3,414459.4,Semi-Critical
+Madhya Pradesh,Shahdol,6.39,7.05,-0.071,194092.8,Semi-Critical
+Madhya Pradesh,Shajapur,6.63,7.9,-0.292,142520.8,Semi-Critical
+Madhya Pradesh,Sheopur,10.39,9.96,0.344,128916.2,Critical
+Madhya Pradesh,Shivpuri,7.77,8.25,0.081,249468.9,Semi-Critical
+Madhya Pradesh,Sidhi,7.73,7.2,0.335,170797.2,Semi-Critical
+Madhya Pradesh,Singrauli,7.39,7.83,-0.108,128589.0,Semi-Critical
+Madhya Pradesh,Tikamgarh,5.75,6.45,0.044,172365.8,Semi-Critical
+Madhya Pradesh,Ujjain,6.98,7.72,-0.005,296514.7,Semi-Critical
+Madhya Pradesh,Umaria,6.42,7.27,-0.11,127201.8,Semi-Critical
+Madhya Pradesh,Vidisha,5.87,6.18,-0.033,327941.2,Semi-Critical
+Maharashtra,Akola,9.77,10.68,-0.031,175595.1,Semi-Critical
+Maharashtra,Amravati,8.26,7.98,0.161,281333.2,Critical
+Maharashtra,Beed,6.67,7.21,-0.123,430822.4,Semi-Critical
+Maharashtra,Bhandara,5.35,5.39,0.146,388943.1,Semi-Critical
+Maharashtra,Buldhana,7.2,8.04,-0.05,247095.5,Semi-Critical
+Maharashtra,Chandrapur,4.91,5.1,-0.008,457111.9,Safe
+Maharashtra,Chhatrapati Sambhajinagar,7.09,8.49,-0.316,515434.8,Semi-Critical
+Maharashtra,Dharashiv,6.58,6.88,-0.176,94527.2,Semi-Critical
+Maharashtra,Dhule,7.18,7.22,0.049,276257.4,Semi-Critical
+Maharashtra,Gadchiroli,4.11,4.45,-0.047,334516.5,Safe
+Maharashtra,Gondia,5.42,5.11,0.211,377855.6,Semi-Critical
+Maharashtra,Hingoli,7.22,7.47,0.043,123479.9,Semi-Critical
+Maharashtra,Jalgaon,11.1,10.7,0.189,573322.0,Critical
+Maharashtra,Jalna,6.37,7.25,-0.254,350041.4,Semi-Critical
+Maharashtra,Kolhapur,4.11,3.98,-0.022,368816.2,Safe
+Maharashtra,Latur,8.55,8.7,-0.078,76684.3,Semi-Critical
+Maharashtra,Nagpur,5.78,5.8,0.102,416647.4,Semi-Critical
+Maharashtra,Nanded,5.59,6.41,-0.126,350877.6,Semi-Critical
+Maharashtra,Nandurbar,7.61,7.78,0.044,175824.6,Semi-Critical
+Maharashtra,Nashik,6.65,6.47,0.047,232840.1,Semi-Critical
+Maharashtra,Parbhani,7.61,8.33,-0.15,284275.7,Semi-Critical
+Maharashtra,Pune,4.45,5.06,-0.137,252352.9,Safe
+Maharashtra,Raigad,2.18,2.31,-0.027,223797.8,Safe
+Maharashtra,Ratnagiri,6.43,6.18,0.072,125124.2,Semi-Critical
+Maharashtra,Sangli,4.47,5.28,-0.215,125353.7,Safe
+Maharashtra,Satara,4.9,5.32,-0.11,162502.2,Safe
+Maharashtra,Sindhudurg,5.67,5.66,0.047,133278.4,Semi-Critical
+Maharashtra,Solapur,6.62,7.08,-0.174,223485.6,Semi-Critical
+Maharashtra,Thane,3.01,2.99,0.061,129523.4,Semi-Critical
+Maharashtra,Wardha,5.23,5.59,-0.026,250217.1,Semi-Critical
+Maharashtra,Washim,6.14,6.1,0.162,49944.7,Semi-Critical
+Maharashtra,Yavatmal,5.56,5.67,0.061,497957.4,Semi-Critical
+Manipur,Imphal East,4.2,4.2,0.0,36930.0,Safe
+Meghalaya,East Garo Hills,3.04,2.97,0.006,19824.0,Semi-Critical
+Meghalaya,East Khasi Hills,2.66,2.29,0.036,11025.0,Semi-Critical
+Meghalaya,Ri Bhoi,3.11,2.56,0.114,18192.9,Semi-Critical
+Meghalaya,South Garo Hills,5.15,5.15,0.848,17263.7,Semi-Critical
+Meghalaya,West Garo Hills,2.83,3.3,-0.179,63844.9,Safe
+Meghalaya,West Jaintia Hills,0.79,0.9,-0.049,14411.8,Safe
+Meghalaya,West Khasi Hills,0.77,0.79,-0.016,12089.1,Safe
+Nagaland,Dimapur,3.8,5.33,-0.674,93367.5,Safe
+Nagaland,Kohima,4.22,4.67,-0.585,15800.0,Safe
+Nagaland,Mokokchung,2.69,2.69,-0.205,16340.0,Safe
+Nagaland,Mon,2.93,2.93,0.0,44225.0,Safe
+Nagaland,Wokha,4.25,4.25,-0.101,16722.5,Safe
+Odisha,Balangir,3.31,3.52,-0.044,368313.1,Safe
+Odisha,Bargarh,2.65,2.68,0.015,613775.6,Semi-Critical
+Odisha,Bhadrak,2.06,2.68,-0.228,316908.2,Safe
+Odisha,Boudh,3.0,3.27,-0.033,126837.1,Safe
+Odisha,Cuttack,2.36,2.55,-0.011,228887.9,Safe
+Odisha,Deogarh,3.49,3.62,0.018,95945.2,Semi-Critical
+Odisha,Dhenkanal,3.53,3.94,-0.048,165001.4,Safe
+Odisha,Gajapati,2.81,3.27,-0.08,70689.9,Safe
+Odisha,Ganjam,2.43,2.69,-0.025,478395.3,Safe
+Odisha,Jagatsinghapur,1.67,1.88,-0.047,166291.9,Safe
+Odisha,Jharsuguda,3.4,3.41,0.035,97529.4,Semi-Critical
+Odisha,Kalahandi,3.31,3.55,-0.038,451659.8,Safe
+Odisha,Kandhamal,6.0,5.9,0.125,76721.3,Semi-Critical
+Odisha,Kendrapara,1.98,2.09,-0.022,251924.9,Safe
+Odisha,Khordha,4.05,3.92,0.088,184598.7,Semi-Critical
+Odisha,Koraput,4.45,4.25,0.048,260225.3,Semi-Critical
+Odisha,Malkangiri,2.62,2.63,0.004,200590.9,Semi-Critical
+Odisha,Mayurbhanj,3.64,4.04,-0.101,639236.7,Safe
+Odisha,Nabarangpur,3.54,3.42,0.046,274301.9,Semi-Critical
+Odisha,Nayagarh,2.74,3.16,-0.067,162845.8,Safe
+Odisha,Nuapada,3.56,3.76,0.006,191115.7,Semi-Critical
+Odisha,Puri,2.35,2.46,-0.005,248903.6,Safe
+Odisha,Rayagada,2.95,3.41,-0.133,119485.6,Safe
+Odisha,Sambalpur,3.25,3.38,0.006,293026.1,Semi-Critical
+Odisha,Sonepur,2.79,2.81,0.043,275309.8,Semi-Critical
+Odisha,Sundargarh,3.62,3.79,-0.002,394143.9,Safe
+Puducherry,Karaikal,1.95,2.91,-0.289,9548.2,Safe
+Punjab,Amritsar,14.48,14.38,0.066,375422.2,Critical
+Punjab,Barnala,37.98,32.85,1.716,231088.9,Over-Exploited
+Punjab,Bathinda,18.89,16.61,0.781,510355.6,Over-Exploited
+Punjab,Faridkot,8.63,8.01,0.166,233122.2,Critical
+Punjab,Fatehgarh Sahib,20.84,21.26,0.011,173700.0,Over-Exploited
+Punjab,Ferozepur,6.38,7.29,-0.07,367500.0,Semi-Critical
+Punjab,Gurdaspur,7.15,7.33,-0.064,380255.6,Semi-Critical
+Punjab,Hoshiarpur,12.21,13.7,-0.221,242344.4,Critical
+Punjab,Jalandhar,24.29,23.89,0.302,351922.2,Over-Exploited
+Punjab,Kapurthala,19.11,17.12,0.669,230800.0,Over-Exploited
+Punjab,Ludhiana,17.56,17.24,0.321,511344.4,Over-Exploited
+Punjab,Mansa,12.82,11.79,0.492,339544.4,Critical
+Punjab,Moga,30.71,26.84,0.908,356344.4,Over-Exploited
+Punjab,Patiala,25.7,25.74,0.328,467911.1,Over-Exploited
+Punjab,Rupnagar,10.6,10.83,0.131,108722.2,Critical
+Punjab,S.A.S Nagar,10.16,12.52,-0.109,80966.7,Critical
+Punjab,Sangrur,35.4,32.16,1.185,567744.4,Over-Exploited
+Punjab,Shahid Bhagat Singh Nagar,20.43,19.37,0.388,142155.6,Over-Exploited
+Punjab,Sri Muktsar Sahib,3.0,3.11,-0.011,420577.8,Safe
+Punjab,Tarn Taran,19.37,17.95,0.567,368455.6,Over-Exploited
+Rajasthan,Ajmer,6.83,7.51,-0.058,64905.8,Semi-Critical
+Rajasthan,Alwar,24.16,21.79,0.736,242236.1,Over-Exploited
+Rajasthan,Banswara,3.72,3.79,-0.001,136893.4,Safe
+Rajasthan,Baran,4.93,4.83,0.065,169780.3,Semi-Critical
+Rajasthan,Barmer,34.53,32.37,0.853,14856.9,Over-Exploited
+Rajasthan,Bharatpur,14.55,13.35,0.493,150446.0,Critical
+Rajasthan,Bhilwara,8.27,8.98,-0.132,162363.2,Semi-Critical
+Rajasthan,Bikaner,36.64,40.68,-1.548,124506.0,Over-Exploited
+Rajasthan,Bundi,3.79,3.84,0.008,206262.0,Semi-Critical
+Rajasthan,Chittorgarh,9.17,8.63,0.157,159284.1,Critical
+Rajasthan,Churu,36.65,36.8,-0.051,39180.6,Over-Exploited
+Rajasthan,Dausa,22.96,26.15,-0.433,91501.8,Over-Exploited
+Rajasthan,Dholpur,12.49,13.68,-0.263,60883.6,Critical
+Rajasthan,Dungarpur,4.46,4.79,-0.08,69442.3,Safe
+Rajasthan,Ganganagar,13.86,13.17,0.159,399670.6,Critical
+Rajasthan,Hanumangarh,18.83,18.44,0.085,455809.9,Critical
+Rajasthan,Jaipur,32.83,33.03,0.054,147699.2,Over-Exploited
+Rajasthan,Jaisalmer,33.35,34.47,-0.475,10029.0,Over-Exploited
+Rajasthan,Jalore,35.1,31.23,1.092,43547.0,Over-Exploited
+Rajasthan,Jhalawar,6.68,6.28,0.048,121208.7,Semi-Critical
+Rajasthan,Jhunjhunu,59.59,60.31,0.364,91015.2,Over-Exploited
+Rajasthan,Jodhpur,25.61,24.19,0.099,121427.1,Over-Exploited
+Rajasthan,Karauli,17.19,14.41,0.971,80707.7,Over-Exploited
+Rajasthan,Kota,7.04,6.45,0.141,158464.3,Semi-Critical
+Rajasthan,Nagaur,36.75,34.26,0.669,116843.8,Over-Exploited
+Rajasthan,Pali,7.3,8.55,-0.537,81164.6,Semi-Critical
+Rajasthan,Pratapgarh,4.3,4.64,-0.05,74291.4,Safe
+Rajasthan,Rajsamand,6.46,7.0,-0.158,35025.8,Semi-Critical
+Rajasthan,Sawai Madhopur,6.4,7.92,-0.281,74640.2,Semi-Critical
+Rajasthan,Sikar,45.77,47.0,-0.229,89399.6,Over-Exploited
+Rajasthan,Sirohi,13.07,11.69,0.304,33637.6,Critical
+Rajasthan,Tonk,6.75,6.58,0.094,53559.9,Semi-Critical
+Rajasthan,Udaipur,5.26,5.52,-0.038,88195.3,Semi-Critical
+Tamil Nadu,Ariyalur,2.85,4.36,-0.362,60824.6,Safe
+Tamil Nadu,Chennai,5.51,5.51,0.0,216.0,Semi-Critical
+Tamil Nadu,Coimbatore,14.25,16.41,-0.321,3591.4,Critical
+Tamil Nadu,Cuddalore,15.38,20.21,-0.901,249784.3,Critical
+Tamil Nadu,Dharmapuri,8.25,9.44,-0.438,54688.8,Semi-Critical
+Tamil Nadu,Dindigul,8.27,9.39,-0.331,26288.9,Semi-Critical
+Tamil Nadu,Erode,7.83,9.25,-0.336,61362.9,Semi-Critical
+Tamil Nadu,Kancheepuram,3.96,4.46,-0.138,113980.0,Safe
+Tamil Nadu,Kanniyakumari,7.08,6.67,0.13,17521.2,Semi-Critical
+Tamil Nadu,Karur,4.49,4.51,-0.093,20660.2,Safe
+Tamil Nadu,Krishnagiri,12.11,11.84,-0.157,42854.0,Critical
+Tamil Nadu,Madurai,7.51,8.64,-0.401,83485.3,Semi-Critical
+Tamil Nadu,Nagapattinam,4.98,4.97,0.108,222282.7,Semi-Critical
+Tamil Nadu,Namakkal,7.6,9.26,-0.532,31083.2,Semi-Critical
+Tamil Nadu,Perambalur,5.71,6.98,-0.365,60306.0,Semi-Critical
+Tamil Nadu,Pudukkottai,4.89,5.71,-0.183,134909.0,Safe
+Tamil Nadu,Ramanathapuram,4.45,4.32,0.104,128231.1,Semi-Critical
+Tamil Nadu,Salem,8.05,10.33,-0.606,62718.1,Semi-Critical
+Tamil Nadu,Sivaganga,9.22,8.41,0.216,120743.0,Critical
+Tamil Nadu,Thanjavur,4.09,4.6,-0.186,301751.6,Safe
+Tamil Nadu,The Nilgiris,4.64,4.2,0.0,212.6,Safe
+Tamil Nadu,Theni,10.61,11.47,-0.443,25701.2,Critical
+Tamil Nadu,Thiruvallur,3.82,4.02,-0.037,158412.7,Safe
+Tamil Nadu,Thiruvarur,2.3,3.53,-0.294,315998.9,Safe
+Tamil Nadu,Thoothukkudi,9.82,9.22,0.407,35526.2,Critical
+Tamil Nadu,Tiruchirappalli,6.71,7.23,-0.123,106756.4,Semi-Critical
+Tamil Nadu,Tirunelveli,5.64,6.46,-0.26,110634.2,Semi-Critical
+Tamil Nadu,Tiruppur,2.93,4.72,-0.389,20483.0,Safe
+Tamil Nadu,Tiruvannamalai,5.27,5.99,-0.248,238639.9,Semi-Critical
+Tamil Nadu,Vellore,7.52,8.36,-0.356,68885.6,Semi-Critical
+Tamil Nadu,Viluppuram,4.18,5.01,-0.179,278186.2,Safe
+Tamil Nadu,Virudhunagar,8.6,8.13,0.096,66129.8,Semi-Critical
+Telangana,Adilabad,4.9,5.18,-0.003,247758.9,Safe
+Telangana,Karimnagar,5.64,6.83,-0.216,485105.6,Semi-Critical
+Telangana,Khammam,4.48,5.03,-0.144,406318.9,Safe
+Telangana,Mahabubnagar,9.57,12.65,-0.75,286512.4,Semi-Critical
+Telangana,Medak,13.94,13.16,0.362,276579.9,Critical
+Telangana,Nalgonda,5.72,6.7,-0.208,807312.4,Semi-Critical
+Telangana,Nizamabad,7.54,8.31,-0.118,438961.7,Semi-Critical
+Telangana,Ranga Reddy,9.04,10.3,-0.306,143547.6,Semi-Critical
+Telangana,Warangal,5.28,6.81,-0.359,346151.7,Semi-Critical
+The Dadra And Nagar Haveli And Daman And Diu,Dadra And Nagar Haveli,4.99,4.61,0.116,28458.1,Semi-Critical
+The Dadra And Nagar Haveli And Daman And Diu,Daman,3.97,4.04,-0.001,1719.4,Safe
+Tripura,Dhalai,4.13,3.22,0.194,59701.9,Semi-Critical
+Tripura,North Tripura,3.42,3.34,0.001,52181.2,Semi-Critical
+Tripura,South Tripura,2.35,2.73,-0.147,78067.4,Safe
+Tripura,West Tripura,9.87,7.79,0.339,46733.6,Critical
+Uttar Pradesh,Agra,19.02,15.52,1.339,141996.4,Over-Exploited
+Uttar Pradesh,Aligarh,7.26,6.8,0.227,327848.0,Semi-Critical
+Uttar Pradesh,Ambedkar Nagar,4.36,4.83,-0.035,252416.7,Safe
+Uttar Pradesh,Amroha,15.24,12.54,0.882,200627.6,Over-Exploited
+Uttar Pradesh,Auraiya,7.09,6.1,0.334,158275.3,Semi-Critical
+Uttar Pradesh,Ayodhya,4.53,4.34,0.136,249434.4,Semi-Critical
+Uttar Pradesh,Azamgarh,3.83,4.32,-0.086,489663.8,Safe
+Uttar Pradesh,Baghpat,26.24,24.45,0.581,129677.9,Over-Exploited
+Uttar Pradesh,Bahraich,3.47,3.91,-0.193,365378.8,Safe
+Uttar Pradesh,Ballia,3.28,4.14,-0.189,273894.9,Safe
+Uttar Pradesh,Balrampur,3.47,3.51,0.021,266626.1,Semi-Critical
+Uttar Pradesh,Banda,5.5,5.77,-0.087,201049.2,Semi-Critical
+Uttar Pradesh,Bareilly,5.06,5.27,-0.113,618514.7,Semi-Critical
+Uttar Pradesh,Basti,3.18,3.38,0.009,284298.4,Semi-Critical
+Uttar Pradesh,Bhadohi,6.31,7.05,-0.231,83420.1,Semi-Critical
+Uttar Pradesh,Bijnor,8.0,8.15,0.018,461246.7,Semi-Critical
+Uttar Pradesh,Budaun,16.16,12.63,1.08,390475.1,Over-Exploited
+Uttar Pradesh,Bulandshahr,9.27,8.31,0.277,427016.4,Critical
+Uttar Pradesh,Chandauli,5.13,4.59,0.167,240843.3,Semi-Critical
+Uttar Pradesh,Chitrakoot,10.23,10.1,0.166,63256.0,Critical
+Uttar Pradesh,Deoria,2.75,3.09,-0.047,394294.5,Safe
+Uttar Pradesh,Etah,9.64,8.21,0.532,159538.6,Critical
+Uttar Pradesh,Etawah,13.08,12.74,0.288,150898.9,Critical
+Uttar Pradesh,Farrukhabad,9.25,10.36,-0.281,98834.9,Semi-Critical
+Uttar Pradesh,Fatehpur,10.38,9.76,0.194,273875.3,Critical
+Uttar Pradesh,Firozabad,14.42,11.93,0.955,135164.8,Critical
+Uttar Pradesh,Gautam Buddha Nagar,18.73,17.25,0.359,63822.3,Over-Exploited
+Uttar Pradesh,Ghaziabad,12.14,10.86,0.45,58134.1,Critical
+Uttar Pradesh,Ghazipur,4.92,5.39,-0.149,351771.0,Safe
+Uttar Pradesh,Gonda,3.59,3.63,0.068,391025.9,Semi-Critical
+Uttar Pradesh,Gorakhpur,3.87,3.9,0.117,482346.2,Semi-Critical
+Uttar Pradesh,Hamirpur,7.32,8.08,-0.183,117384.0,Semi-Critical
+Uttar Pradesh,Hardoi,4.15,4.6,-0.051,649459.0,Safe
+Uttar Pradesh,Hathras,8.14,9.28,-0.173,120486.6,Semi-Critical
+Uttar Pradesh,Jalaun,7.04,7.91,-0.174,150994.9,Semi-Critical
+Uttar Pradesh,Jaunpur,5.16,5.02,-0.007,382403.3,Semi-Critical
+Uttar Pradesh,Jhansi,6.46,6.15,0.177,166823.0,Semi-Critical
+Uttar Pradesh,Kannauj,12.21,11.43,0.338,101277.1,Critical
+Uttar Pradesh,Kanpur Dehat,9.17,10.31,-0.123,170737.8,Semi-Critical
+Uttar Pradesh,Kanpur Nagar,7.97,7.13,0.294,141900.9,Semi-Critical
+Uttar Pradesh,Kasganj,6.2,6.15,-0.024,120677.7,Semi-Critical
+Uttar Pradesh,Kaushambi,13.26,13.77,-0.008,121441.7,Critical
+Uttar Pradesh,Kheri,3.65,3.86,-0.073,814061.6,Safe
+Uttar Pradesh,Lalitpur,4.41,4.39,0.117,170332.9,Semi-Critical
+Uttar Pradesh,Lucknow,12.92,13.07,0.075,135052.4,Critical
+Uttar Pradesh,Mahoba,6.68,5.29,0.511,69900.2,Semi-Critical
+Uttar Pradesh,Mainpuri,5.48,4.75,0.241,262897.0,Semi-Critical
+Uttar Pradesh,Mathura,5.51,5.29,0.108,247629.1,Semi-Critical
+Uttar Pradesh,Mau,3.84,4.36,-0.073,190335.0,Safe
+Uttar Pradesh,Meerut,12.83,11.9,0.368,242421.7,Critical
+Uttar Pradesh,Mirzapur,5.96,6.48,-0.158,183994.9,Semi-Critical
+Uttar Pradesh,Moradabad,9.48,9.83,0.032,364281.0,Semi-Critical
+Uttar Pradesh,Muzaffarnagar,11.65,11.95,0.112,279533.2,Critical
+Uttar Pradesh,Pilibhit,3.8,3.58,0.06,480278.3,Semi-Critical
+Uttar Pradesh,Pratapgarh,5.68,6.25,-0.058,252523.7,Semi-Critical
+Uttar Pradesh,Prayagraj,6.22,6.07,0.16,391552.2,Semi-Critical
+Uttar Pradesh,Rae Bareli,4.35,4.12,0.151,239161.0,Semi-Critical
+Uttar Pradesh,Rampur,6.12,6.23,0.054,459730.1,Semi-Critical
+Uttar Pradesh,Saharanpur,8.15,8.63,0.033,309024.2,Semi-Critical
+Uttar Pradesh,Shahjahanpur,6.06,5.75,0.186,719847.2,Semi-Critical
+Uttar Pradesh,Sitapur,5.11,5.16,0.047,675619.1,Semi-Critical
+Uttar Pradesh,Sonbhadra,6.53,6.13,0.067,91978.8,Semi-Critical
+Uttar Pradesh,Sultanpur,5.14,5.41,-0.001,209631.1,Semi-Critical
+Uttar Pradesh,Unnao,5.63,5.58,0.101,361635.8,Semi-Critical
+Uttar Pradesh,Varanasi,7.57,9.26,-0.46,121215.8,Semi-Critical
+Uttarakhand,Champawat,16.25,18.01,-0.651,11415.3,Critical
+Uttarakhand,Dehradun,10.35,10.76,-0.202,29642.9,Critical
+Uttarakhand,Haridwar,7.38,7.89,-0.329,143334.7,Semi-Critical
+Uttarakhand,Nainital,31.15,28.42,0.222,48564.6,Over-Exploited
+West Bengal,Bankura,4.26,4.22,0.027,771514.2,Semi-Critical
+West Bengal,Birbhum,6.76,6.96,-0.136,820580.1,Semi-Critical
+West Bengal,Cooch Behar,2.67,2.66,0.022,553882.4,Semi-Critical
+West Bengal,Dakshin Dinajpur,4.66,4.99,-0.056,403396.4,Safe
+West Bengal,Darjeeling,3.47,3.57,-0.003,58525.6,Safe
+West Bengal,Hooghly,10.59,11.94,-0.084,538233.0,Critical
+West Bengal,Howrah,5.37,4.72,0.06,213438.1,Semi-Critical
+West Bengal,Jalpaiguri,3.89,3.55,0.137,336781.4,Semi-Critical
+West Bengal,Malda,3.6,4.55,-0.268,444032.6,Safe
+West Bengal,Murshidabad,9.91,14.27,-0.414,767108.2,Semi-Critical
+West Bengal,Nadia,4.6,4.46,0.018,482730.4,Semi-Critical
+West Bengal,North 24 Parganas,4.68,4.64,0.014,458787.7,Semi-Critical
+West Bengal,Paschim Bardhaman,2.98,3.19,-0.091,83486.7,Safe
+West Bengal,Paschim Medinipur,7.79,7.63,0.073,1275864.1,Semi-Critical
+West Bengal,Purba Bardhaman,11.17,10.3,0.216,1097536.7,Critical
+West Bengal,Purba Medinipur,10.42,10.99,0.025,814002.1,Critical
+West Bengal,Purulia,3.94,4.07,0.003,584462.7,Semi-Critical
+West Bengal,South 24 Parganas,7.66,6.71,0.35,792767.2,Semi-Critical
+West Bengal,Uttar Dinajpur,2.9,3.29,-0.086,489812.9,Safe

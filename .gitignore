@@ -1,0 +1,28 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# Large raw datasets (>25MB)
+# Full datasets are available from official government portals:
+# 1. India-WRIS (CGWB, Ministry of Jal Shakti): https://indiawris.gov.in
+# 2. Agricultural Production Statistics (Ministry of Agriculture & Farmers Welfare): https://aps.dac.gov.in
+groundwater_cleaned.csv
+crop_production_cleaned.csv
+
+# Temporary and IDE files
+.vscode/
+.idea/
+scratch/
+test_*.png
+test_*.py
+*.tmp
+.DS_Store
