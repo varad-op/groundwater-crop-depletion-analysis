@@ -86,7 +86,7 @@ This project delivers an end-to-end, reproducible data-analytics and time-series
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/varadbele/groundwater-crop-depletion-analysis.git
+git clone https://github.com/varad-op/groundwater-crop-depletion-analysis.git
 cd groundwater-crop-depletion-analysis
 ```
 
