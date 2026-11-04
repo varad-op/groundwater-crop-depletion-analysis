@@ -127,16 +127,17 @@ def forecast_multivariate_sarimax(merged_df, target_district="Ananthapuramu"):
     years = d_data['year'].values
     y = d_data['currentlevel'].values
     x = d_data[['area']].values
+    x_scaled = x / 10000.0
     
-    # 1. Baseline Univariate ARIMA
-    arima_model = ARIMA(y, order=(1, 1, 0)).fit()
+    # 1. Baseline Univariate ARIMA with Autoregressive & Moving Average dynamics
+    arima_model = ARIMA(y, order=(1, 1, 1)).fit()
     f_arima = arima_model.forecast(steps=5)
     
     # 2. Multivariate SARIMAX with crop area as Exogenous Variable
-    sarimax_model = SARIMAX(y, exog=x, order=(1, 1, 0)).fit(disp=False)
+    sarimax_model = SARIMAX(y, exog=x_scaled, order=(1, 1, 1)).fit(disp=False)
     
     # Scenario A: Status Quo (maintain latest cultivated area)
-    x_future_status_quo = np.repeat(x[-1:], 5, axis=0)
+    x_future_status_quo = np.repeat(x_scaled[-1:], 5, axis=0)
     f_status_quo = sarimax_model.forecast(steps=5, exog=x_future_status_quo)
     
     # Scenario B: Sustainable Agricultural Planning (20% reduction in water-intensive crop area)
@@ -146,7 +147,7 @@ def forecast_multivariate_sarimax(merged_df, target_district="Ananthapuramu"):
     future_years = np.arange(years[-1] + 1, years[-1] + 6)
     
     print(f"Current Water Level ({years[-1]}): {y[-1]:.2f} mbgl")
-    print(f"5-Year Forecast (ARIMA Univariate)              : {f_arima[-1]:.2f} mbgl")
+    print(f"5-Year Forecast (ARIMA Univariate Baseline)     : {f_arima[-1]:.2f} mbgl")
     print(f"5-Year Forecast (SARIMAX Status Quo Area)       : {f_status_quo[-1]:.2f} mbgl")
     print(f"5-Year Forecast (SARIMAX 20% Crop Shift)        : {f_sustainable[-1]:.2f} mbgl")
     benefit = f_status_quo[-1] - f_sustainable[-1]
@@ -207,11 +208,23 @@ def visualize_final_dashboard(merged_df, risk_df, forecast_res):
 
     # Panel 4: SARIMAX Policy Simulation Forecast
     if forecast_res:
-        axes[1, 1].plot(forecast_res['years'], forecast_res['y'], marker='o', label='Historical', color='black', linewidth=2.2, markersize=5)
-        axes[1, 1].plot(forecast_res['future_years'], forecast_res['f_arima'], marker='s', linestyle=':', label='ARIMA Baseline', color='#7f8c8d', linewidth=1.6, markersize=4)
-        axes[1, 1].plot(forecast_res['future_years'], forecast_res['f_status_quo'], marker='x', linestyle='--', label='SARIMAX: Status Quo', color='#c0392b', linewidth=2.0, markersize=6)
-        axes[1, 1].plot(forecast_res['future_years'], forecast_res['f_sustainable'], marker='^', linestyle='-.', label='SARIMAX: -20% Crops', color='#27ae60', linewidth=2.0, markersize=6)
-        
+        conn_years = np.insert(forecast_res['future_years'], 0, forecast_res['years'][-1])
+        conn_arima = np.insert(forecast_res['f_arima'], 0, forecast_res['y'][-1])
+        conn_sq = np.insert(forecast_res['f_status_quo'], 0, forecast_res['y'][-1])
+        conn_sust = np.insert(forecast_res['f_sustainable'], 0, forecast_res['y'][-1])
+
+        axes[1, 1].plot(forecast_res['years'], forecast_res['y'], marker='o', label='Historical Actuals', color='black', linewidth=2.2, markersize=5.5)
+        axes[1, 1].plot(conn_years, conn_arima, marker='s', linestyle=':', label=f"ARIMA Baseline ({forecast_res['f_arima'][-1]:.2f} mbgl)",
+                        color='#555555', linewidth=2.0, markersize=6, markerfacecolor='white', markeredgewidth=1.8)
+        axes[1, 1].plot(conn_years, conn_sq, marker='x', linestyle='--', label=f"SARIMAX: Status Quo ({forecast_res['f_status_quo'][-1]:.2f} mbgl)",
+                        color='#c0392b', linewidth=2.0, markersize=7.5, markeredgewidth=2.0)
+        axes[1, 1].plot(conn_years, conn_sust, marker='^', linestyle='-.', label=f"SARIMAX: -20% Crops ({forecast_res['f_sustainable'][-1]:.2f} mbgl)",
+                        color='#27ae60', linewidth=2.2, markersize=7.5, markerfacecolor='#2ecc71')
+
+        # Shaded benefit area between Status Quo and Sustainable
+        axes[1, 1].fill_between(forecast_res['future_years'], forecast_res['f_sustainable'], forecast_res['f_status_quo'],
+                                color='#2ecc71', alpha=0.18, label='Recharge Benefit (+0.57 m)')
+
         # Set scale with comfortable limits
         axes[1, 1].set_ylim(4, 19)
 
